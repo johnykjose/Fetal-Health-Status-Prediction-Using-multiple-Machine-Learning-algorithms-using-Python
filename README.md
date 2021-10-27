@@ -1,0 +1,2 @@
+# Fetal-Health-Status-Prediction-Using-multiple-Machine-Learning-algorithms-using-Python
+Models used are Support Vector Classifier, K-nearest neighbors, XG boost and a stacking classifier. All the model are trained on the training data and tested using test dataset. Hyper-parameter tuning is applied on all the models to select the best. After careful comparison of models, Support Vector classifier performed the best with an accuracy of 99%. The complete development is in python.
